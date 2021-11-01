@@ -21,6 +21,8 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             Form {
+                
+                // Check section (amount and number of ppl)
                 Section {
                     TextField("Amount", text: $checkAmount)
                         .keyboardType(.decimalPad)
@@ -31,6 +33,18 @@ struct ContentView: View {
                         }
                     }
                 }
+                
+                
+                // Tip Section
+                Section(header: Text("How much tip do you want to leave?")) {
+                    
+                    Picker("Tip percentage", selection: $tipPercentage){
+                        ForEach(tipPercentages, id: \.self) {
+                            Text("\($0) %")
+                        }
+                    }
+                    .pickerStyle(SegmentedPickerStyle())
+                } 
             }
             .navigationTitle("WeSplit")
         }
