@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  WeSplit
+
+  Created by Amr Hesham on 02/11/2021.
+  
+*/
+"Amount" = "المبلغ";
+"Number Of People: " = "عدد الناس: ";
+"How much tip do you want to leave?" = "كم بقشيش تريد ان تترك؟";
+"Tip percentage" = "نسبة البقشيش";
