@@ -44,12 +44,10 @@ This project helped me gain hands-on experience with:
 
 ---
 
-## 📸 Screenshots *(Add yours here)*
+## 📸 Screenshots 
 
 > 📷
-> ![simulator_screenshot_16F5626F-E5CB-4F0B-B313-0BD047C07339](https://github.com/user-attachments/assets/0b704872-8d27-47fe-a54f-3ff220afa69c)
-
-
+<img src="https://github.com/user-attachments/assets/0b704872-8d27-47fe-a54f-3ff220afa69c" width="300"/>
 
 ---
 
