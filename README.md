@@ -47,16 +47,7 @@ This project helped me gain hands-on experience with:
 ## 📸 Screenshots 
 
 > 📷
-<img src="https://github.com/user-attachments/assets/0b704872-8d27-47fe-a54f-3ff220afa69c" width="300"/>
-
----
-
-## 🚀 Next Steps
-
-- Support for custom tip percentages
-- Dark mode customization
-- Add haptics or animations
-- Localized currency based on region
+<img src="https://github.com/user-attachments/assets/0b704872-8d27-47fe-a54f-3ff220afa69c" width="200"/>
 
 ---
 
