@@ -1,42 +1,68 @@
-💸 WeSplit – SwiftUI Bill Splitting App
-Welcome to WeSplit, my very first SwiftUI application! 🚀
-This project is a clean, simple, and elegant bill-splitting app that calculates how much each person should pay, including tips. It was built as part of my SwiftUI learning journey — and it's just the beginning.
+# 💸 WeSplit – SwiftUI Bill Splitting App
 
-✨ What I Built
-WeSplit is a bill calculator where you:
+Welcome to **WeSplit**, my very first **SwiftUI application**! 🚀  
+This project is a clean, simple, and elegant bill-splitting app that calculates how much each person should pay — including tips.
 
-💰 Enter the check amount.
+It was built as part of my SwiftUI learning journey — and it’s just the beginning.
 
-👥 Select the number of people.
+---
 
-🎁 Choose the tip percentage.
+## ✨ What I Built
 
-✅ Instantly see how much each person owes.
+**WeSplit** is a real-time bill calculator where you can:
 
-All done in a user-friendly form interface, styled with native SwiftUI components — smooth, intuitive, and responsive.
+- 💰 **Enter** the check amount  
+- 👥 **Select** the number of people  
+- 🎁 **Choose** a tip percentage  
+- ✅ **Instantly see** how much each person owes
 
-🧠 What I Learned
-This project helped me get hands-on experience with:
+All wrapped in a user-friendly, responsive form interface — built with native **SwiftUI** components.
 
-@State and @FocusState property wrappers
+---
 
-SwiftUI layout system using Form and NavigationStack
+## 🧠 What I Learned
 
-Pickers and Segmented Controls
+This project helped me gain hands-on experience with:
 
-Custom computed properties and live UI updates
+- `@State` and `@FocusState` for local state and keyboard management
+- `Form` and `NavigationStack` for structured layout
+- `Picker` (navigation and segmented styles) for user input
+- Computed properties to calculate values dynamically
+- Currency formatting using `.format` and locale support
+- Keyboard dismissal with `.toolbar` and UX polish
+- SwiftUI Previews for rapid UI iteration
 
-Currency formatting using .format and locale support
+> It’s a compact app, but behind it are real skills I’m building for larger and more complex iOS projects.
 
-Keyboard management and UX polish with toolbars
+---
 
-SwiftUI previews for live iteration
+## 🛠 Tech Stack
 
-It’s a compact app, but behind it are real skills I’m building for larger, more complex iOS projects.
+- **Language:** Swift  
+- **Framework:** SwiftUI  
+- **Tools:** Xcode, Xcode Previews
 
-🛠 Tech Stack
-Swift
+---
 
-SwiftUI
+## 📸 Screenshots *(Add yours here)*
 
-Xcode Previews
+> 📷 Add screenshots or short recordings to show off the UI and user flow.
+
+---
+
+## 🚀 Next Steps
+
+- Support for custom tip percentages
+- Dark mode customization
+- Add haptics or animations
+- Localized currency based on region
+
+---
+
+## 🙌 Thanks for Reading
+
+This is just the beginning — more projects coming soon!  
+If you liked this, feel free to check out my [iOS Portfolio Repo](https://github.com/yourusername/ios-portfolio) for more SwiftUI apps.
+
+📬 [LinkedIn](https://linkedin.com/in/amrhesham9595)  
+📧 amrhesham9595@gmail.com
