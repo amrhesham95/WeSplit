@@ -1,6 +1,6 @@
 # 💸 WeSplit – SwiftUI Bill Splitting App
 
-Welcome to **WeSplit**, my very first **SwiftUI application**! 🚀  
+Welcome to **WeSplit**  
 This project is a clean, simple, and elegant bill-splitting app that calculates how much each person should pay — including tips.
 
 It was built as part of my SwiftUI learning journey — and it’s just the beginning.
@@ -46,7 +46,10 @@ This project helped me gain hands-on experience with:
 
 ## 📸 Screenshots *(Add yours here)*
 
-> 📷 Add screenshots or short recordings to show off the UI and user flow.
+> 📷
+> ![simulator_screenshot_16F5626F-E5CB-4F0B-B313-0BD047C07339](https://github.com/user-attachments/assets/0b704872-8d27-47fe-a54f-3ff220afa69c)
+
+
 
 ---
 
